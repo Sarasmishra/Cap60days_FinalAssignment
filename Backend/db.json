@@ -1,0 +1,84 @@
+{
+  "tickets": [
+    {
+      "title": "Complete Navbar",
+      "description": "Build a logout button with a Navbar",
+      "status": "Pending",
+      "assignee": "Rahul",
+      "priority": 5,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Fix Footer Links",
+      "description": "Ensure all footer links are correctly working and redirecting to the right pages",
+      "priority": 7,
+      "assignee": "Anita",
+      "status": "Progress"
+    },
+    {
+      "id": 3,
+      "title": "Optimize Images",
+      "description": "Compress and optimize all images for faster loading times",
+      "priority": 3,
+      "assignee": "Vikram",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "title": "Add Contact Form Validation",
+      "description": "Implement validation for the contact form fields",
+      "priority": 6,
+      "assignee": "Suman",
+      "status": "Completed"
+    },
+    {
+      "id": 5,
+      "title": "Integrate Payment Gateway",
+      "description": "Integrate Stripe for payment processing",
+      "priority": 9,
+      "assignee": "Arjun",
+      "status": "Progress"
+    },
+    {
+      "id": 6,
+      "title": "Create User Profile Page",
+      "description": "Design and implement a user profile page with editable fields",
+      "priority": 2,
+      "assignee": "Priya",
+      "status": "Pending"
+    },
+    {
+      "id": 7,
+      "title": "Implement Dark Mode",
+      "description": "Add a toggle for dark mode throughout the site",
+      "priority": 4,
+      "assignee": "Neha",
+      "status": "Progress"
+    },
+    {
+      "id": 8,
+      "title": "Database Migration",
+      "description": "Migrate the database from MySQL to PostgreSQL",
+      "priority": 8,
+      "assignee": "Rajesh",
+      "status": "Pending"
+    },
+    {
+      "id": 9,
+      "title": "Set Up CI/CD Pipeline",
+      "description": "Configure continuous integration and deployment pipeline using GitHub Actions",
+      "priority": 1,
+      "assignee": "Karan",
+      "status": "Completed"
+    },
+    {
+      "id": 10,
+      "title": "Update API Documentation",
+      "description": "Ensure the API documentation is up-to-date with the latest endpoints and examples",
+      "priority": 0,
+      "assignee": "Sneha",
+      "status": "Progress"
+    }
+  ]
+}

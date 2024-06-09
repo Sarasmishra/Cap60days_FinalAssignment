@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+.vite/
+
+# Lockfile
+final_project/package-lock.json
+
+# Ignore backend/node_modules if present
+Backend/node_modules/
